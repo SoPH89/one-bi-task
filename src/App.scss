@@ -1,0 +1,27 @@
+@import "../src/common/colors.scss";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+a {
+  text-decoration: none;
+}
+
+body {
+  background: $primary-color;
+}
+
+.container{
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+}
+.movies-container {
+  margin: 0px 40px;
+}
+
+.sidebar-container{
+  width: 100%;
+}

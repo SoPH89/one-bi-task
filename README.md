@@ -12,4 +12,5 @@ Run "npm start" command
 
 # Live demo
 
-You can check the demo here:
+You can check the live demo here:
+https://one-bi-task.herokuapp.com/

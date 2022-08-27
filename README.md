@@ -1,3 +1,7 @@
+# About the app
+Used omdbapi for fetching some movies and TV shows.
+The api can be found here: https://www.omdbapi.com/
+
 # Installing
 
 run "npm install" command in order to install dependancies
